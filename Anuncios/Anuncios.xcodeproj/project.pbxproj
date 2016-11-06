@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXFileReference section */
+		67316B2B1DCF5C42005A6B8F /* config.php */ = {isa = PBXFileReference; lastKnownFileType = text.script.php; name = config.php; path = ../textpattern/config.php; sourceTree = "<group>"; };
 		67714EE01DCF459200C5121C /* textpattern */ = {isa = PBXFileReference; lastKnownFileType = folder; name = textpattern; path = ..; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -14,6 +15,7 @@
 		67714ED91DCF455200C5121C = {
 			isa = PBXGroup;
 			children = (
+				67316B2B1DCF5C42005A6B8F /* config.php */,
 				67714EE01DCF459200C5121C /* textpattern */,
 			);
 			sourceTree = "<group>";
